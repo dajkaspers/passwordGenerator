@@ -15,3 +15,5 @@ for pwd in range(number):
     for c in range(length):
         passwords += random.choice(chars)
     print(passwords)
+
+print('\nIk hoop dat dit je voor nu genoeg geholpen heeft')
